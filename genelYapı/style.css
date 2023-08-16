@@ -1,0 +1,17 @@
+*{
+    text-decoration: none!important;
+    list-style-type: none;
+}
+/*colors*/
+.f2{
+    color: #F2E8CF;
+}
+
+.mynavbar ul li a{
+    color: #F2E8CF;
+    transition: 1s;
+}
+.mynavbar ul li a:hover{
+    color: #807f7e;
+    
+}
